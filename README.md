@@ -1,4 +1,3 @@
-Fullstack Developer Portfolio
 Welcome to my GitHub repository! I'm a versatile fullstack developer proficient in a wide range of programming languages and technologies. From low-level languages like C and C++ to high-level frameworks like Django and ASP.NET, I have experience across the stack. Whether it's crafting algorithms, building APIs, or developing games, I'm passionate about creating efficient and elegant solutions.
 
 Skills
