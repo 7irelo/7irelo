@@ -1,35 +1,31 @@
-Welcome to my GitHub repository! I'm a versatile fullstack developer proficient in a wide range of programming languages and technologies. From low-level languages like C and C++ to high-level frameworks like Django and ASP.NET, I have experience across the stack. Whether it's crafting algorithms, building APIs, or developing games, I'm passionate about creating efficient and elegant solutions.
+**Full Stack Developer**
 
-Skills
-Here's an overview of my skills and expertise:
+Welcome to my GitHub repository, a passionate Full Stack Developer based in South Africa. With proficiency in a wide array of technologies and a diverse skill set spanning from backend to frontend development, I am dedicated to crafting high-quality software solutions. 
 
-Programming Languages:
-C, C#, C++, Java, Python, JavaScript, HTML, CSS, TypeScript
+### Skills
 
-Technologies & Frameworks:
-Algorithms: Skilled at writing efficient algorithms for various problem domains.
-Game Development: Proficient in game development concepts and technologies.
-Unity: Experienced in Unity game engine for cross-platform game development.
-.NET Framework: Knowledgeable in .NET framework for building Windows applications.
-ASP.NET: Proficient in ASP.NET for web application development.
-Django: Experienced in Django framework for building web applications with Python.
-Flask: Skilled in Flask framework for lightweight web application development.
-PHP: Familiar with PHP for server-side web development.
-Node.js: Proficient in Node.js for building scalable network applications.
-API Development: Experienced in designing and implementing RESTful APIs.
-SQL: Skilled in relational database management systems and SQL queries.
-Database Administration: Experienced in database administration and management.
+I specialize in the following technologies:
 
-Projects
-Take a look at some of my notable projects:
+- Languages: C, C#, C++, Java, JavaScript, Kotlin, Python, Ruby, Rust, SQL
+- Web Development: HTML, CSS, PHP, ASP.NET, Node.js, Electron.js, React.js, React Native
+- Frameworks: .NET, ImGui
+- Graphics and Game Development: OpenGL, Unity
+- Database Management: Database Administration, SQL
+- Artificial Intelligence: Machine Learning, Data Science
+- Mathematical Computing
 
-Login App: Desktop login application written in c++.
-Django Study App: Study budy application written using Django and sqlite
+### Projects
 
-Contributions
-I'm open to collaboration and contributions. If you have any ideas for improvement, bug fixes, or feature requests for any of my projects, feel free to submit a pull request.
+I have worked on a variety of projects, ranging from web applications to game development and machine learning applications. Some notable projects include:
 
-Contact
-You can reach out to me via email at tirelo.eric@gmail.com for any inquiries or collaboration opportunities.
+- **E-Commerce Platform**: Developed a scalable e-commerce platform using React.js for the frontend, Node.js for the backend, and MongoDB for database management.
+- **Mobile Application**: Created a cross-platform mobile application using React Native, providing a seamless user experience on both iOS and Android devices.
+- **Game Development**: Contributed to the development of a 3D game using Unity, implementing game mechanics, UI/UX features, and optimizations.
+- **Machine Learning Model**: Built a machine learning model using Python and TensorFlow for sentiment analysis on social media data.
+- **Data Visualization Tool**: Designed a data visualization tool using JavaScript libraries like D3.js to create interactive visualizations for complex datasets.
 
-Thank you for visiting my GitHub profile! Happy coding! 🚀
+### Contact
+
+For inquiries, collaboration opportunities, or project discussions, feel free to reach out via email at [tirelo.eric@gmail.com](mailto:tirelo.eric@google.com). I am open to new challenges and is excited to contribute to innovative projects.
+
+Thank you for visiting my GitHub repository! 🚀
