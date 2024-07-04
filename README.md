@@ -1,31 +1,46 @@
-**Full Stack Developer**
+Sure, here's an updated version of the README incorporating the requested technologies and projects:
 
-Welcome to my GitHub repository, a passionate Full Stack Developer based in South Africa. With proficiency in a wide array of technologies and a diverse skill set spanning from backend to frontend development, I am dedicated to crafting high-quality software solutions. 
+---
 
-### Skills
+# GitHub Repository of Tirelo Eric - Full Stack Developer
+
+Welcome to my GitHub repository! I'm a passionate Full Stack Developer based in South Africa, with expertise in a wide range of technologies across backend, frontend, and mobile development.
+
+## Skills
 
 I specialize in the following technologies:
 
-- Languages: C, C#, C++, Java, JavaScript, Kotlin, Python, Ruby, Rust, SQL
-- Web Development: HTML, CSS, PHP, ASP.NET, Node.js, Electron.js, React.js, React Native
-- Frameworks: .NET, ImGui
-- Graphics and Game Development: OpenGL, Unity
-- Database Management: Database Administration, SQL
-- Artificial Intelligence: Machine Learning, Data Science
-- Mathematical Computing
+- **Languages**: C, C#, C++, Java, JavaScript, Kotlin, Python, Ruby, Rust, SQL, Lua, PHP, HTML, CSS
+- **Frameworks**: Laravel, Spring Boot, ASP.NET Core, Django, Node.js, React.js, Angular, Next.js, Vue.js, React Native
+- **Database Management**: MySQL, PostgreSQL, SQL Server MongoDB
+- **Artificial Intelligence**: Machine Learning, Data Science
+- **Mathematical Computing**
 
-### Projects
+## Projects
 
-I have worked on a variety of projects, ranging from web applications to game development and machine learning applications. Some notable projects include:
+Here are some notable projects I've worked on:
 
-- **E-Commerce Platform**: Developed a scalable e-commerce platform using React.js for the frontend, Node.js for the backend, and MongoDB for database management.
-- **Mobile Application**: Created a cross-platform mobile application using React Native, providing a seamless user experience on both iOS and Android devices.
-- **Game Development**: Contributed to the development of a 3D game using Unity, implementing game mechanics, UI/UX features, and optimizations.
-- **Machine Learning Model**: Built a machine learning model using Python and TensorFlow for sentiment analysis on social media data.
-- **Data Visualization Tool**: Designed a data visualization tool using JavaScript libraries like D3.js to create interactive visualizations for complex datasets.
+- **E-Commerce Platform**
+  - Developed a scalable e-commerce platform using React.js for the frontend, Node.js (Express) for the backend, and MongoDB for database management.
+  
+- **Banking Application**
+  - Created a robust banking application using Node.js (Express) for backend APIs and React for a responsive frontend, ensuring secure and efficient financial transactions.
+  
+- **Data Visualization Tool**
+  - Designed a powerful data visualization tool using Spring Boot, leveraging Java-based libraries to create insightful visualizations from complex datasets.
+  
+- **Social Media Application**
+  - Built a social media platform using Django for the backend API and Angular for the frontend, providing users with interactive and engaging social networking features.
+  
+- **Mobile Application**
+  - Developed a cross-platform mobile application using React Native, delivering a unified experience on both iOS and Android platforms.
 
-### Contact
+## Contact
 
-For inquiries, collaboration opportunities, or project discussions, feel free to reach out via email at [tirelo.eric@gmail.com](mailto:tirelo.eric@google.com). I am open to new challenges and is excited to contribute to innovative projects.
+For inquiries, collaboration opportunities, or project discussions, feel free to reach out via email at [tirelo.eric@gmail.com](mailto:tirelo.eric@gmail.com). I'm always eager to tackle new challenges and contribute to innovative projects.
 
 Thank you for visiting my GitHub repository! 🚀
+
+---
+
+Feel free to customize the skills, projects, and contact information further based on your specific accomplishments and preferences.
