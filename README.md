@@ -1,8 +1,4 @@
-Sure, here's an updated version of the README incorporating the requested technologies and projects:
-
----
-
-# GitHub Repository of Tirelo Eric - Full Stack Developer
+# Full Stack Developer
 
 Welcome to my GitHub repository! I'm a passionate Full Stack Developer based in South Africa, with expertise in a wide range of technologies across backend, frontend, and mobile development.
 
