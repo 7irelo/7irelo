@@ -1,38 +1,3 @@
-# Full Stack Developer  
-
-Building scalable solutions across web, cloud, and AI domains with 3+ years of professional experience.  
-
----
-
-## Technical Expertise  
-
-### **Core Development**  
-- **Languages**: C, C#, Java, Python, Rust, TypeScript, SQL  
-- **Frameworks**: .NET, Spring Boot, Node.js, Django, Ruby on Rails  
-- **Systems Programming**: OpenGL, VoIP (Asterisk/SiP), WebRTC  
-
-### **Frontend & Mobile**  
-- React, Angular, WebAssembly  
-- React Native for cross-platform apps  
-- HTML/CSS, responsive design  
-
-### **Cloud & Infrastructure**  
-- **Platforms**: AWS, Azure  
-- **Containers**: Docker, Kubernetes  
-- **DevOps**: GitHub Actions, Jenkins, NGINX  
-
-### **Data & AI Engineering**  
-- **Databases**: PostgreSQL, MongoDB, Redis, Neo4j  
-- **Machine Learning**: PyTorch, TensorFlow, OpenAI API  
-- **Data Pipelines**: Apache Flink, Spark Streaming  
-
-### **Specialized Domains**  
-- Game Development (PhysX, Photon Engine)  
-- Blockchain (Solidity, Web3.js)  
-- Microservices Architecture  
-
----
-
 ## Professional Experience  
 
 ### **Full Stack Developer**  
