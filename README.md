@@ -1,22 +1,23 @@
-## Professional Experience  
+## Professional Experience
 
 ### **Full Stack Developer**  
 **Euphoria Telecom** | Nov 2024 - Present  
-- Develop telecom solutions using C#/.NET and React  
-- Implement real-time communication with WebRTC/VoIP  
-- Optimize AWS infrastructure and CI/CD pipelines  
+- Develop telecom solutions using C#/.NET and React for enterprise-scale applications
+- Implement real-time communication systems with WebRTC/VoIP technologies
+- Maintain and optimize AWS cloud infrastructure and CI/CD pipelines
+- Work with microservices architecture and distributed systems design
 
-### **Cloud Engineer (Freelance)**  
+### **Cloud Engineer**  
 **Upwork Talent** | Nov 2022 - Present  
-- Designed Kubernetes-based systems for multiple clients  
-- Built real-time data processing with Apache Flink  
-- Developed blockchain integrations using Solidity  
+- Design and implement Kubernetes-based systems for various client projects
+- Build real-time data processing solutions using Apache Flink
+- Develop blockchain integrations and smart contracts using Solidity
+- Architect cloud-native applications on AWS and Azure platforms
+- Implement event-driven systems with message brokers like RabbitMQ and Kafka
 
----
-
-## Technical Impact  
-✓ Reduced API response times by 70% in production systems  
-✓ Architected 3+ scalable microservices solutions  
-✓ Implemented AI features enhancing user experiences  
-
----
+### **Technical Focus Areas**
+- Microservices architecture and container orchestration
+- Real-time data processing and streaming applications
+- Cloud infrastructure and distributed systems design
+- Blockchain technology and smart contract development
+- Message brokers and asynchronous communication patterns
